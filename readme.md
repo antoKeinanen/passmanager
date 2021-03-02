@@ -30,7 +30,8 @@ help: lists all avaiable commands
 list: lists all of your saved passwords
 view: view saved password
 quit: quits passmanager
-add: add a password
+add: add a password. Use *#*random to generate random password!
+edit: edit a password. Use *#*random to generate random password!
 refresh: reload your password database
 delete: delete password (this can't be undone)
 destroy: destroys your whole database (this can't be undone)
