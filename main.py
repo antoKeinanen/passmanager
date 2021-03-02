@@ -67,7 +67,7 @@ def list():
 
 
 def help():
-    return "Listing all avaiable commands:\n help \n list \n view \n quit \n add \n refresh \n delete \n copyuser \n copypass"
+    return "Listing all avaiable commands:\n help \n list \n view \n quit \n add \n refresh \n delete \n copyuser \n copypass \n destroy"
 
 
 def view(name):
